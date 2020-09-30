@@ -24,7 +24,7 @@ For development with changes watch and hot reloading, run:
 
     npm run develop # or "yarn develop"
 
-### Updating translations
+### Updating Translations
 
  * Update *i18n/catalog.json* by running `npm run extract-translations`.
  * The *catalog.json* should then be uploaded to the [the Crowdin translation project](https://crowdin.com/project/gdevelop-website) by the project administrator.
